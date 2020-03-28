@@ -47,7 +47,9 @@ public class RegisterActivity extends Activity {
                 registerMoment();  //While click your register button, what do u want ur app.
             }
         });
+
     }
+
 
     private void registerMoment() {
         barLoading.setVisibility(View.VISIBLE);
