@@ -31,8 +31,8 @@ public class RegisterActivity extends Activity {
     private static String urlRegister = "http://192.168.1.101/PHP/Register.php";
 
     @Override
-    protected void onCreate(Bundle savedIntanceState) {
-        super.onCreate(savedIntanceState);
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);  //id match here.
         barLoading = findViewById(R.id.barLoading);
         username = findViewById(R.id.username);
