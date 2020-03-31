@@ -1,1 +1,3 @@
-furkan senin amk
+Mert yapacağın işe sokum
+
+Her şey bozuldu.
